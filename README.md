@@ -15,9 +15,11 @@ Signature: the hashing of the concatenation of Header and Payload )
 
 # Let’s create a new Project in Visual Studio 2019.
 ![image](https://user-images.githubusercontent.com/37914930/125211249-b93e0080-e2ad-11eb-9eed-bb6760e9ceb3.png)
+
 We need to choose ASP.NET Core Web Api Template, then press Create.
 
 Adding Microsoft.EntityFramvorc.Core
+
 ![image](https://user-images.githubusercontent.com/37914930/125211276-dd99dd00-e2ad-11eb-9bf2-1ef95308aad4.png)
 
 
